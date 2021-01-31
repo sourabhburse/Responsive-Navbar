@@ -1,7 +1,7 @@
 # Responsive-Navbar
 Responsive Navbar Created With HTML, CSS, Javascript.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+See live page [here](https://sourabhburse.github.io/Responsive-Navbar/)
 
 
 ## Usage
